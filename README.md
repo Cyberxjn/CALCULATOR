@@ -47,7 +47,7 @@ Tell me:
 - CLI or GUI
 - Beginner or Advanced look  
 
-I’ll customize it 🔥
+I’ll customize it.🔥
 
 
 
